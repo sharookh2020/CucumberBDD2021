@@ -1,0 +1,10 @@
+parallel\Price_AlertSteps.class
+parallel\SigninSteps.class
+parallel\FailedRun.class
+parallel\WindowHandlesSteps.class
+parallel\PaginationSteps.class
+parallel\ParallelRun.class
+parallel\Price_WaitSteps.class
+parallel\UsedCarSearchSteps.class
+parallel\ApplicationHooks.class
+parallel\ParallelRun$PositiveTest.class
