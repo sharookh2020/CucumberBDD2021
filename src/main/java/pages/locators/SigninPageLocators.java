@@ -16,7 +16,5 @@ public class SigninPageLocators {
 	public WebElement findSubmitButton;
 	
 	//Test for git
-	
-	//Test for git update 2
 
 }
